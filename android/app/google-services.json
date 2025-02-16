@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1091831851490",
+    "project_id": "marta-ng-womens-council",
+    "storage_bucket": "marta-ng-womens-council.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091831851490:android:12314d30de8683522b71bb",
+        "android_client_info": {
+          "package_name": "com.mycompany.womenscouncil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArWNBTGUFjmAC0mRMhXKLILBI_70vAiqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091831851490:android:ffd112998b2ba90b2b71bb",
+        "android_client_info": {
+          "package_name": "ru.martangg.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArWNBTGUFjmAC0mRMhXKLILBI_70vAiqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
